@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "core-js": "^3.39.0",
-    "fractional": "^1.0.0",
+    "fracty": "^1.0.12",
     "regenerator-runtime": "^0.14.1",
     "sass": "npm:sass@^1.83.0",
     "whatwg-fetch": "^3.6.20"
