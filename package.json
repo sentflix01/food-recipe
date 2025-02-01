@@ -1,25 +1,22 @@
 {
-  "name": "sentmainu",
+  "name": "foodrecipe",
   "version": "1.0.0",
-  "description": "Food recipe Application",
-  "default": "index.html",
+  "description": "FOOD RECIPE application",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Sintayehu Mulugeta",
   "license": "ISC",
-  "dependencies": {
-    "core-js": "^3.39.0",
-    "fraction.js": "^5.2.1",
-    "regenerator-runtime": "^0.14.1",
-    "sass": "npm:sass@^1.83.0",
-    "whatwg-fetch": "^3.6.20"
-  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.13.3",
     "parcel": "^2.13.3",
-    "sass": "^1.83.0",
     "svgo": "^3.3.2"
+  },
+  "dependencies": {
+    "core-js": "^3.40.0",
+    "fraction.js": "^5.2.1",
+    "regenerator-runtime": "^0.14.1",
+    "sass": "^1.83.4"
   }
 }
