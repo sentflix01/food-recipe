@@ -1,6 +1,7 @@
 import View from './View.js';
 import icons from 'url:../../img/icons.svg';
-
+import 'regenerator-runtime/runtime';
+import { async } from 'regenerator-runtime'
 class addRecipeView extends View {
   _parentElement = document.querySelector('.upload');
   _message = 'Recipe was successfully uploaded :)';

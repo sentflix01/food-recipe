@@ -1,8 +1,9 @@
 import View from './View.js';
-
+import 'regenerator-runtime/runtime'; 
 // import icons from '../img/icons.svg'; // Parcel 1
 import icons from 'url:../../img/icons.svg'; // Parcel 2
 import Fraction from 'fraction.js';
+import { async } from 'regenerator-runtime'
 // import { Fraction } from 'fractional';
 // /* NOTE: The Fractional package has been reported to cause an error when deployed to a server. I suggest you to use Fracty instead. */
 // // import { Fraction } from 'fractional';
