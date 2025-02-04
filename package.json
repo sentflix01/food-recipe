@@ -14,7 +14,7 @@
     "fraction.js": "^5.2.1",
     "parcel": "^2.13.3",
     "regenerator-runtime": "^0.13.7",
-    "sass": "^1.26.10"
+    "sass": "^1.83.4"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.13.3",
