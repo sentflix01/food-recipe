@@ -1,5 +1,5 @@
 import View from './View.js';
-import icons from 'url:../../img/icons.svg';
+import icons from 'url:../../img/icons.svg'; 
 import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime'
 class addRecipeView extends View {
