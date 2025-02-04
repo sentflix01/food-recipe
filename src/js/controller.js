@@ -7,7 +7,6 @@ import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable'; // polyfilling for everything else
-import 'regenerator-runtime/runtime';
 import { async } from 'regenerator-runtime'; // polyfilling async/await
 import Fraction from 'fraction.js';
 // const recipeContainer = document.querySelector('.recipe');
