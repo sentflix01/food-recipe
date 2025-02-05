@@ -15,7 +15,10 @@
     "regenerator-runtime": "^0.14.1"
   },
   "devDependencies": {
+    "@parcel/optimizer-image": "^2.13.3",
+    "@parcel/optimizer-terser": "^2.13.3",
     "@parcel/transformer-sass": "^2.13.3",
+    "@parcel/transformer-svg": "^2.13.3",
     "parcel": "^2.13.3",
     "sass": "^1.83.0"
   }
